@@ -1,3 +1,5 @@
+![alt text](https://github.com/dpredie/ComposureX/blob/main/Content/ComposureX/CXLogo.png)
+
 # ComposureX
 Composure X : Unreal Engine Realtime Compositing Workflow 
 
