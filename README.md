@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/dpredie/ComposureX/blob/main/Content/ComposureX/CXLogo.png" width="250"></p>
 
 # Composure X  
-Unreal Engine Realtime Compositing Workflow
+Unreal Engine Realtime Compositing Workflow by @dpredie
 
 # Youtube tutorial:
 [![Youtube Tutorial](https://img.youtube.com/vi/0EUVEA7diaI/0.jpg)](https://www.youtube.com/watch?v=0EUVEA7diaI)
