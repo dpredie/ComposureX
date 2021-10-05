@@ -8,6 +8,6 @@ https://github.com/dpredie/ComposureX/blob/main/Composure%20X%20-%20Realtime%20C
 
 Youtube tutorial:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0EUVEA7diaI/0.jpg)](https://www.youtube.com/watch?v=0EUVEA7diaI)
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0EUVEA7diaI/0.jpg)](https://www.youtube.com/watch?v=0EUVEA7diaI)
 
 reminder that if you build complicated layers theres a bug in UE composure that might crash the layers, save the level often
