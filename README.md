@@ -1,4 +1,4 @@
-![CX](https://github.com/dpredie/ComposureX/blob/main/Content/ComposureX/CXLogo.png)
+![CX](https://github.com/dpredie/ComposureX/blob/main/Content/ComposureX/CXLogo.png=250x250)
 
 # Composure X  
 Unreal Engine Realtime Compositing Workflow
