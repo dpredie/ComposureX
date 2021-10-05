@@ -1,4 +1,4 @@
-<img src="https://github.com/dpredie/ComposureX/blob/main/Content/ComposureX/CXLogo.png" width="250">
+<p align="center"><img src="https://github.com/dpredie/ComposureX/blob/main/Content/ComposureX/CXLogo.png" width="250"></p>
 
 # Composure X  
 Unreal Engine Realtime Compositing Workflow
